@@ -1,0 +1,8 @@
+a {
+  color: black;
+}
+
+a:hover {
+  color: blue;
+  background-color: rgb(255, 252, 248);
+}
